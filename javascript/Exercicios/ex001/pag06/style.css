@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+.somador {
+    border-radius: 20px;
+    height: 25px;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+div#res {
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+
+.n1 {
+    width: 20px;
+}
+
+.n2 {
+    width: 20px;
+}

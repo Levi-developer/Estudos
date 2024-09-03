@@ -1,0 +1,7 @@
+* {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #7000FF, #FA01D7, #FE067E, #FE5514, #FEC600);
+}
