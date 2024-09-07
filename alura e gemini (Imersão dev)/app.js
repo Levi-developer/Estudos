@@ -1,7 +1,18 @@
-var number = 3
-var number2 = 4
-var resultado = number + number2
 
-console.log('A soma entre os números 3 e 4: ', resultado)
+function pesquisar() {
+let section = document.getElementById('resultados-pesquisa'); 
+let resultados = ''
 
-alert('Seja bem-vindo, calabreso')
+for(let dado of dados) {
+    resultados += `
+   <div class="item-resultado">
+        <h2>${dado.titulo}</h2>
+        <p class="descricao-meta">${dado.descricao}</p>
+        <a href="${dado.link}" target="_blank">Mais informações</a>
+    </div>
+`
+}
+
+section.innerHTML = resultados
+
+}
