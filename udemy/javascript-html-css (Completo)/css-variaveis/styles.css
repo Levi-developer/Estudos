@@ -1,0 +1,7 @@
+:root {
+    --corazul: #0f12d6;
+}
+
+.box-titulo {
+    color: var(--corazul);
+}

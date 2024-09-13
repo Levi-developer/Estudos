@@ -1,0 +1,25 @@
+.main-article {
+    background-color: burlywood;
+    display: flex;
+}
+
+.first-article {
+    margin: 2em; /* margem*/
+    height: 10em; /* altura*/
+    width: 10em; /* largura*/ 
+    background-color: aquamarine; /* cor de fundo*/ 
+}
+
+.second-article {
+    margin: 2em; /* margem*/
+    height: 10em; /* altura*/
+    width: 10em; /* largura*/ 
+    background-color: blue; /* cor de fundo*/ 
+}
+
+.thirty-article {
+    margin: 2em; /* margem*/
+    height: 10em; /* altura*/
+    width: 10em; /* largura*/ 
+    background-color: palevioletred; /* cor de fundo*/ 
+}
